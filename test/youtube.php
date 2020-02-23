@@ -15,9 +15,9 @@
   <h3>SEO Resources</h3>
 <!-- Provide 3 or more links to resources links that support how to create accessible websites -->
 <ol>
-       <li><a href="https://moz.com/learn/seo">SEO Learning Center</a></li>
-       <li><a href="https://webmasters.googleblog.com/2018/02/seo-audit-category-in-lighthouse.html">
-           Launching SEO Audit category in Lighthouse Chrome extension</a></li>
+       <li><a href="https://www.w3.org/WAI/fundamentals/accessibility-intro/">Introduction to Web Accessibility</a></li>
+       <li><a href="https://www.usability.gov/what-and-why/accessibility.html">
+           Accessibility Basics</a></li>
        <li><a href="https://www.searchenginejournal.com/">Search Engine Journal</a></li>
 </ol>
 </aside>

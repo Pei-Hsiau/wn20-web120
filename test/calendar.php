@@ -19,16 +19,16 @@
 <h3>Recent Events</h3>
 <!-- Provide 3 or more links to free-ish calendar resources that developers like yourself might consider. Examples you should look into: localendar.com, tockify.com, and time.ly -->
 <ol>
-       <li><a href="https://www.rentonriverdays.org/">Renton River Days</a></li>
+       <li><a href="https://www.rentonriverdays.org/">Renton River Days  -July 24-26-</a></li>
        <p>Renton River Days is an annual multi-day family festival and celebration of community pride,
           joining residents, businesses, organizations, and Puget Sound tourists together for a wonderful variety of events,
           special features for kids, arts and crafts, recreation, food, and stage entertainment at Liberty Park and Cedar River Park.</p>
-       <li><a href="https://www.emeraldcitycomiccon.com/">Emerald City Comic Con</a></li>
+       <li><a href="https://www.emeraldcitycomiccon.com/">Emerald City Comic Con -March 12-15-</a></li>
        <p>The Emerald City Comic Con, formerly the Emerald City Comicon, 
            is an annual comic book convention taking place in Seattle, Washington. 
            Originally taking place at the city's CenturyLink Field, 
            the venue changed in 2008 to its current home at the Washington State Convention and Trade Center. </p>
-            <li><a href="https://gardenshow.com/">Northwest Flower and garden show</a></li>
+            <li><a href="https://gardenshow.com/">Northwest Flower and garden show -February 26-March 1-</a></li>
        <p>The Northwest Flower &amp; Garden Show is an annual exhibition of horticulture and gardening held in Seattle, 
            Washington, for five days each February. It is the largest garden show west of Philadelphia and is regarded as the second largest garden show in the country.</p>
 </ol>
